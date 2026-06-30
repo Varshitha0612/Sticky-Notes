@@ -39,6 +39,8 @@ npm run preview  # serves that dist/ folder so you can check it
 4. **Delete a note** — drag it so its center overlaps the trash circle in the
    bottom-right of the board, then release.
    ![alt text](<Screenshot (26).png>)
+
+
 Bonus features included:
 - **Edit text** — click a note's body to type, click away to stop editing.
 - **Bring to front** — clicking/dragging a note always raises it above the others.
